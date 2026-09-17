@@ -704,7 +704,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Investigate Sentry issues, events, and releases, and run Seer root-cause analysis.
 - [Vivere](https://vivere.dev) `https://vivere.dev/mcp`
   [![Vivere MCP connector](https://glama.ai/mcp/connectors/dev.vivere/monitors/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vivere/monitors)
-  🔑 - Heartbeat and cron job monitoring: create monitors, check in when a run starts, succeeds or fails, and list status.
+  🔓 - Heartbeat and cron job monitoring: create monitors and check in when runs start, succeed or fail. Calls need an API key.
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
